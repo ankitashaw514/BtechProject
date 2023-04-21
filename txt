@@ -1,0 +1,5 @@
+python randomForestAlgo.py
+python extraTreeAlgo.py
+python linearRegression.py
+python decisionTree.py
+python knnAlgo.py
